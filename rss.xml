@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[REC]]></title>
-        <description><![CDATA[REC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Red Elephant Creative | Branding | Design | Art]]></title>
+        <description><![CDATA[Red Elephant Creative | Branding | Design | Art]]></description>
+        <link>https://thegrid.ai/rec/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 08:55:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Apr 2016 09:50:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rec/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://rec-projects.com/wp-content/uploads/2015/07/BrandKnew_logo_mk-260x185.jpg">]]></description>
+            <link>https://thegrid.ai/rec/c5973026-1dd4-4cf1-a41b-0ff27ef4400a/index.html</link>
+            <guid isPermaLink="false">c5973026-1dd4-4cf1-a41b-0ff27ef4400a</guid>
+            <pubDate>Fri, 22 Apr 2016 09:50:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a8d4c73-0251-447c-a690-ab21d5c0975a.jpg">]]></description>
-            <link>undefinedbranding-for-cafe-bakery-or-australia/index.html</link>
+            <link>https://thegrid.ai/rec/branding-for-cafe-bakery-or-australia/index.html</link>
             <guid isPermaLink="false">7378f2ac-cf24-4a1d-9782-5d3af33ff89a</guid>
             <pubDate>Fri, 22 Apr 2016 08:54:47 GMT</pubDate>
         </item>
